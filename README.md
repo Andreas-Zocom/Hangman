@@ -1,2 +1,0 @@
-# Hangman
-HTML CSS JAVASCRIPT
